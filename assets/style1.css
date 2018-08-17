@@ -1,6 +1,6 @@
 .header{
     margin-top: 40px;
-    border-bottom: blue ridge 10px;
+    
     padding: 5px;
 }
 
@@ -26,7 +26,6 @@ h1{
     font-size: 16px;
     border-style: none;
     border-radius:50px;
-    margin-top: 5px;
     margin-left: 2px;
     padding: 5px;
 
@@ -38,4 +37,12 @@ h1{
 
 .blogBox{
     margin-top:10px;
+}
+
+.fullStack{
+    margin-left: 50px;
+}
+
+.banner{
+    margin-top: 50px;
 }
