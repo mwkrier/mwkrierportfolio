@@ -1,0 +1,106 @@
+body{
+    background-color: blue;
+}
+
+.down_banner {
+    background-color:  rgb(231, 0, 0);
+    position: absolute;
+    top:0;
+    width: 200px;
+    height: 620px;
+    margin-left: 150px;
+    float: left;
+}
+
+.down_banner1{
+    background-color:  rgb(231, 0, 0);
+    position: absolute;
+    top:720px;
+    right:124px;
+    width: 200px;
+    height: 620px;
+    margin-left: 150px;
+    border: black 1px solid;
+}
+
+.superK{
+    color:gold;
+    border:gold solid 10px;
+    text-shadow: 5px 0px black;
+    margin-left: 50px;
+    box-shadow: 5px 0px black;
+    border-radius: 75%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 65px;
+    text-align: center;
+    width: 75px;
+    height: 75px;
+}
+
+.text-holder{
+    border: rgb(231, 0, 0) 5px solid;
+    outline:gold 5px solid; 
+    width: 680px;
+    height: 545px;
+    margin-right:150px; 
+    padding: 20px;
+    position: absolute;
+    top: 5px;
+    right:0;
+    float: right;
+}
+
+.text-title{
+    color:gold; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px; 
+    margin: 0px;
+}
+
+.text-para{
+    color:gold; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.navlink{
+    color:gold; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.side_banner{
+    width:980px;
+    height: 100px;
+    position:absolute;
+    top: 620px;
+    background-color: rgb(231, 0, 0);
+    margin-left: 150px;
+}
+
+.text-holder1{
+    border: rgb(231, 0, 0) 5px solid;
+    outline:gold 5px solid; 
+    width: 680px;
+    height: 800px;
+    margin-right:150px;
+    margin-bottom:20px; 
+    padding:20px;
+    position: absolute;
+    top:730px;
+    left:170px;
+}
+
+.text-para-res{
+    color:gold; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    margin: 1px;
+}
+
+.resheader{
+    border-bottom: gold 2px solid;
+    margin: 5px;
+}
