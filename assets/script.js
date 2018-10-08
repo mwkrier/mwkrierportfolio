@@ -1,14 +1,32 @@
-$("#collapseTwo").on('click', function(){
-    $("#collapseTwo").css("show");
-})
+
+$("#about-res").on('click', function(){
+    $('#mwkrierInfo').css("display", "block");
+    $('#portfolio').css("display", "none");
+    $('#blogBox').css("display", "none");
+    $("contactBox").css("display", "none");
+});
 
 $("#portfolioButton").on('click', function(){
     $('#portfolio').css("display", "block");
-    $('#hidden').css("display", "none");
+    $('#mwkrierInfo').css("display", "none");
+    $('#blogBox').css("display", "none");
+    $("contactBox").css("display", "none");
+    
 });
 
-$("#about-res").on('click', function(){
-    $('#hidden').css("display", "block");
-})
+$("#blogButton").on('click', function(){
+    $('#blogBox').css("display", "block");
+    $('#mwkrierInfo').css("display", "none");
+    $('#portfolio').css("display", "none");
+    $("contactBox").css("display", "none");
 
+});
+
+$("#contactButton").on('click', function(){
+    $("#contactBox").css("display", "block");
+    $('#mwkrierInfo').css("display", "none");
+    $('#portfolio').css("display", "none");
+    $('#blogBox').css("display", "none");
+
+});
 
