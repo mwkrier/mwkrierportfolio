@@ -10,16 +10,8 @@ $("#portfolioButton").on('click', function(){
     $('#portfolio').css("display", "block");
     $('#mwkrierInfo').css("display", "none");
     $('#blogBox').css("display", "none");
-    $("contactBox").css("display", "none");
+    $("#contactBox").css("display", "none");
     
-});
-
-$("#blogButton").on('click', function(){
-    $('#blogBox').css("display", "block");
-    $('#mwkrierInfo').css("display", "none");
-    $('#portfolio').css("display", "none");
-    $("contactBox").css("display", "none");
-
 });
 
 $("#contactButton").on('click', function(){
