@@ -1,0 +1,31 @@
+.resumeBut {
+    border: #2657f7 2px solid;
+    border-radius: 25px;
+    background-color: white;		
+    color: #2657f7;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family:  'Signika', sans-serif;
+}
+
+.marginT {
+    margin-top: 20px;
+}
+
+.inlineD {
+    display: inline;
+}
+
+.floatR {
+    float: right;
+}
+
+.marginB{
+    margin-bottom: 20px;
+}
+
+.bimage {
+    background-image: url("paper.jpg");
+    background-repeat: no-repeat;
+}
