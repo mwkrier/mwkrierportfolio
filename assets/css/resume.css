@@ -1,0 +1,53 @@
+#res-font-title{
+    font-size: 16px;
+    color: blue;
+}
+
+#res-font-click{
+    font-size: 12px;
+    font-style: italic;
+}
+
+.pointer-visual{
+    cursor: pointer;
+}
+
+#ht-div{
+    display: none;
+}
+
+#ngms-div{
+    display: none;
+}
+
+#cms-div{
+    display: none;
+}
+
+#cems-div{
+    display: none;
+}
+
+#marchband-div{
+    display: none;
+}
+
+#all-div{
+    display: none;
+}
+
+#mpa-div{
+    display: none;
+}
+
+#unc-div{
+    display: none;
+}
+
+#asu-div{
+    display: none;
+}
+
+#sl-div{
+    display: none;
+}
