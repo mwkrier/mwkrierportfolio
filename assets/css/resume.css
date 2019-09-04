@@ -51,3 +51,15 @@
 #sl-div{
     display: none;
 }
+
+.borderart {
+    border: black 1px solid; 
+    display: block;
+}
+
+.makespace{
+    margin-top: 20px;
+}
+.makespace10 {
+    margin-top: 10px;
+}
