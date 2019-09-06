@@ -304,14 +304,14 @@
 	}
 
 	footer {
-		margin: 0 0 3em 0;
+		margin: 0 0 1em 0;
 
 		> :last-child {
 			margin-bottom: 0;
 		}
 
 		&.major {
-			padding-top: 3em;
+			padding-top: 1em;
 		}
 	}
 
@@ -997,7 +997,7 @@
 /* Footer */
 
 	#footer {
-		padding: 4em 0 8em 0;
+		padding: 2em 0 2em 0;
 
 		a {
 			color: inherit;
@@ -1010,7 +1010,7 @@
 		}
 
 		.container {
-			margin-bottom: 4em;
+			margin-bottom: 2em;
 		}
 
 		.icons {
@@ -1250,7 +1250,7 @@
 				text-align: center;
 
 				.container {
-					margin-bottom: 4em;
+					margin-bottom: 0em;
 				}
 
 				form .actions {
@@ -1536,7 +1536,7 @@
 		/* Footer */
 
 			#footer {
-				padding: 2em 20px;
+				padding: 2em 2px;
 				text-align: left;
 			}
 

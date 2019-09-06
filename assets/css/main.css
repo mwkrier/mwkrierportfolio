@@ -2758,7 +2758,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 4em 0 8em 0;
+		padding: 4em 0 4em 0;
 	}
 
 		#footer a {
@@ -3336,4 +3336,22 @@ input, select, textarea {
 				text-align: left;
 			}
 
+	}
+
+	.black {
+		background-color: #333;
+	}
+	
+	.top_blue_border{
+		border-top: #37c0fb 10px solid; 
+	}
+
+	.imagewrap{
+		float: left;
+		margin-top: 5px;
+		margin-left: 5px;
+		margin-bottom: 5px;
+		margin-right: 10px;
+		border: black 5px solid;
+		border-radius: 5%;
 	}
